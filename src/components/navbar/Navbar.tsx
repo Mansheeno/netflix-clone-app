@@ -26,7 +26,7 @@ export default function Navbar() {
     >
       <Link to={"/"}>
         <img
-          src="/Netflix-Logo.png"
+          src="/images/Netflix-Logo.png"
           className="cursor-pointer w-[140px]"
         />
       </Link>
